@@ -11,3 +11,4 @@
 | REVLib              | 2025.0.3        | REVLib.json                  |
 | WPILib-New-Commands | 1.0.0           | WPILibNewCommands.json       |
 | Autopilot           | 1.4.0           | Autopilot.json               |
+| MapleSim            | 0.3.14          | maple-sim.json               |
